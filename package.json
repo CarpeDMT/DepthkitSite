@@ -25,6 +25,7 @@
   "author": "Scatter",
   "license": "MIT",
   "dependencies": {
+    "depthkit": "^2.0.0",
     "rvfc-polyfill": "^1.0.7",
     "three": "^0.159.0"
   },
